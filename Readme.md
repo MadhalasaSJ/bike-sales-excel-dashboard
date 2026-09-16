@@ -4,7 +4,7 @@ An interactive Excel dashboard for analyzing customer demographics, purchasing b
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](screenshots/bike-sales-dashboard.png)
+![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
 
 ## Project Overview
 
